@@ -2,6 +2,6 @@
 
 It is a Counter
 
-**Nothing Much to Explain**
+**Only for Mobile Devices**
 
 Made by Sheik
